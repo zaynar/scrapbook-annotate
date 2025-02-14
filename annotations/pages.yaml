@@ -1,0 +1,86 @@
+- img: front.jpg
+- img: 00-01.jpg
+  pages: [0, 1]
+- img: 02-03.jpg
+  pages: [2, 3]
+- img: 04-05.jpg
+  pages: [4, 5]
+- img: 06-07.jpg
+  pages: [6, 7]
+- img: 08.jpg
+  pages: [8]
+- img: 09.jpg
+  pages: [9]
+- img: 10-11.jpg
+  pages: [10, 11]
+- img: 12-13.jpg
+  pages: [12, 13]
+- img: 14-15.jpg
+  pages: [14, 15]
+- img: 16-17.jpg
+  pages: [16, 17]
+- img: 18-19.jpg
+  pages: [18, 19]
+- img: 20-21.jpg
+  pages: [20, 21]
+- img: 22-23.jpg
+  pages: [22, 23]
+- img: 24-25.jpg
+  pages: [24, 25]
+- img: 26-27.jpg
+  pages: [26, 27]
+- img: 28-29.jpg
+  pages: [28, 29]
+- img: 30-31.jpg
+  pages: [30, 31]
+- img: 32-33.jpg
+  pages: [32, 33]
+- img: 34-35.jpg
+  pages: [34, 35]
+- img: 36-37.jpg
+  pages: [36, 37]
+- img: 38-39.jpg
+  pages: [38, 39]
+- img: 40-41.jpg
+  pages: [40, 41]
+- img: 42-43.jpg
+  pages: [42, 43]
+- img: 44-45.jpg
+  pages: [44, 45]
+- img: 46-47.jpg
+  pages: [46, 47]
+- img: 48-49.jpg
+  pages: [48, 49]
+- img: 50-51.jpg
+  pages: [50, 51]
+- img: 52-53.jpg
+  pages: [52, 53]
+- img: 54-55.jpg
+  pages: [54, 55]
+- img: 56-57.jpg
+  pages: [56, 57]
+- img: 58-59.jpg
+  pages: [58, 59]
+- img: 60-61.jpg
+  pages: [60, 61]
+- img: 62-63.jpg
+  pages: [62, 63]
+- img: 64-65.jpg
+  pages: [64, 65]
+- img: 66-67.jpg
+  pages: [66, 67]
+- img: 68-69.jpg
+  pages: [68, 69]
+- img: 70-71.jpg
+  pages: [70, 71]
+- img: 72-73.jpg
+  pages: [72, 73]
+- img: 74-75.jpg
+  pages: [74, 75]
+- img: 76-77.jpg
+  pages: [76, 77]
+- img: 78-79.jpg
+  pages: [78, 79]
+- img: 80.jpg
+  pages: [80]
+- img: back.jpg

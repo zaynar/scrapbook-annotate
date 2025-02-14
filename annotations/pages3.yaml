@@ -1,0 +1,210 @@
+- img: telstar-1.jpg
+  pages: ['telstar-1']
+- img: telstar-2.jpg
+  pages: ['telstar-2']
+- img: telstar-3.jpg
+  pages: ['telstar-3']
+- img: telstar-4.jpg
+  pages: ['telstar-4']
+- img: telstar-5.jpg
+  pages: ['telstar-5']
+- img: telstar-6.jpg
+  pages: ['telstar-6']
+- img: telstar-7.jpg
+  pages: ['telstar-7']
+- img: telstar-8.jpg
+  pages: ['telstar-8']
+
+# Before launch
+# Month before broadcast
+- img: 17a.jpg
+  pages: ['17a']
+
+# Launch (July 10)
+- img: 00.jpg
+  pages: ['00']
+- img: 08a.jpg
+  pages: ['08a']
+# Same as 08a
+#- img: 22b.jpg
+#  pages: ['22b']
+- img: 15a.jpg
+  pages: ['15a']
+
+# First call - unknown date
+- imgs:
+  - 19a.jpg
+  - 01b.jpg
+  pages:
+  - 19a
+  - 01b
+# First phone call
+- img: 11b.jpg
+  pages: ['11b']
+
+# First cable
+- img: 09a.jpg
+  pages: ['09a']
+
+# First pictures (Jul 11)
+- img: 08b.jpg
+  pages: ['08b']
+- img: 16.jpg
+  pages: ['16']
+- img: 23.jpg
+  pages: ['23']
+
+# Before broadcast
+- imgs:
+  - 15c.jpg
+  - 04a.jpg
+  pages:
+  - 15c
+  - 04a
+- img: 17b.jpg
+  pages: ['17b']
+- img: 18a.jpg
+  pages: ['18a']
+- img: 19b.jpg
+  pages: ['19b']
+- img: 25b.jpg
+  pages: ['25b']
+
+# 3 weeks after launch
+- img: 18b.jpg
+  pages: ['18b']
+
+# Transatlantic broadcast (Jul 23)
+- img: 06.jpg
+  pages: ['06']
+- img: 14.jpg
+  pages: ['14']
+- imgs:
+  - 01a.jpg
+  - 25a.jpg
+  pages: ['01a', '25a']
+- imgs:
+  - 18c.jpg
+  - 03.jpg
+  pages:
+  - 18c
+  - 03
+- img: 10a.jpg
+  pages: ['10a']
+- img: 11a.jpg
+  pages: ['11a']
+- img:
+  - 20.jpg
+  - 10b.jpg
+  pages:
+  - 20
+  - 10b
+- img: 13.jpg
+  pages: ['13']
+- img: 19d.jpg
+  pages: ['19d']
+# How signals "were" to be relayed
+- img: 02a.jpg
+  pages: ['02a']
+
+# Speculation on what to show
+- img: 02b.jpg
+  pages: ['02b']
+
+# 2 days after broadcast
+- img: 05c.jpg
+  pages: ['05c']
+
+# Few days after broadcast
+- img: 15b.jpg
+  pages: ['15b']
+
+# Some time after launch
+- img: 01c.jpg
+  pages: ['01c']
+
+# Olympics
+- img: 01d.jpg
+  pages: ['01d']
+- img: 07a.jpg
+  pages: ['07a']
+
+# First call to Pacific coast
+- img: 01e.jpg
+  pages: ['01e']
+
+# Month after launch
+- img: 24.jpg
+  pages: ['24']
+
+# Eisenhower (Aug 15)
+- img: 05a.jpg
+  pages: ['05a']
+- img: 07f.jpg
+  pages: ['07f']
+
+# Radio Show (Aug 20 - Sep 1)
+- img: 07b.jpg
+  pages: ['07b']
+- img: 07c.jpg
+  pages: ['07c']
+
+# Clocks (Aug 25)
+- img: 04f.jpg
+  pages: ['04f']
+
+# Call from plane (Aug 29)
+- img: 04g.jpg
+  pages: ['04g']
+
+# Bill (Aug 31)
+- img: 04e.jpg
+  pages: ['04e']
+
+# Dag Hammarskjoeld (Sep 18)
+- img: 07e.jpg
+  pages: ['07e']
+
+# Damage (Nov 23)
+- img: 04b.jpg
+  pages: ['04b']
+- img: 04c.jpg
+  pages: ['04c']
+
+# Computer comms
+- img: 05b.jpg
+  pages: ['05b']
+
+# Share deals
+- img: 07d.jpg
+  pages: ['07d']
+
+# Alcohol
+- img: 09b.jpg
+  pages: ['09b']
+
+# Doctors (Sep)
+- img: 09c.jpg
+  pages: ['09c']
+- img: 22c.jpg
+  pages: ['22c']
+
+# 23 calls
+- img: 04d.jpg
+  pages: ['04d']
+- img: 12.jpg
+  pages: ['12']
+
+# Airline booking
+- img: 19c.jpg
+  pages: ['19c']
+
+# Boxing
+- img: 21.jpg
+  pages: ['21']
+- img: 22a.jpg
+  pages: ['22a']
+
+# Photos
+- img: 26.jpg
+  pages: ['26']
