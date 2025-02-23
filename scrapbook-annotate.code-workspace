@@ -6,6 +6,9 @@
 		{
 			"path": "../scrapbook-images"
 		},
+		{
+			"path": "../../web/zaynar/site"
+		}
 	],
 	"settings": {}
 }
