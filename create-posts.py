@@ -155,6 +155,8 @@ def convert_scrapbook(num, pages, annotations):
 title = "Scrapbook {num}: {escape_str(page['title'])}"
 description = "Space newspaper clippings. {escape_str(page['summary'])}"
 weight = {page['weight']}
+[extra]
+og_image = "https://zaynar.co.uk/images/scrapbook-{num}/{page['pagename']}.jpg"
 +++
 ''')
 
